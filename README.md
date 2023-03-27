@@ -28,6 +28,7 @@
 Portifolio Microverse! project is a repository consisting of the following files:
 - HTML file (index.html)
 - CSS file (styles.css)
+- JS file (index.js)
 
 
 ## 🛠 Built With <a name="built-with"></a>
